@@ -1,6 +1,6 @@
 import './App.css'
 import React from 'react'
-import Counter from './Counter'
+import Counter from './Exercises/Counter'
 
 import  Gifs from './Gifs'
 
